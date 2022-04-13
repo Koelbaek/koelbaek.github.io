@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is the title of the post
-postHero: https://placekitten.com/g/400/100
+postHero: https://placekitten.com/g/600/200
 author: Kitten McCatFace
 authorTwitter: https://twitter.com/mhartl
 gravatar: https://placekitten.com/g/200/200 
